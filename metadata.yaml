@@ -1,5 +1,8 @@
 _repo: Demos_4309
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gissing, George
@@ -12,6 +15,8 @@ creator:
 description: "Demos: A Story of English Socialism is a novel by the English author\
   \ George Gissing. It was written between late 1885 and March 1886 and first published\
   \ in April 1886 by Smith, Elder & Co.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4309#Demos
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
 identifiers:
